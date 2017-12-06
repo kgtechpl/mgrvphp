@@ -53,6 +53,7 @@
 --enable-gd-native-ttf \
 --with-libdir=lib64 \
 --enable-dba=shared \
+--enable-intl \
 --with-readline=/usr \
 --enable-simplexml \
 --with-libdir=/lib/x86_64-linux-gnu \
